@@ -5,6 +5,7 @@ import Header from "./Header";
 import Home from "./Home";
 import Footer from "./Footer";
 import Checkout from "./Checkout";
+import Payment from "./Payment";
 import Login from "./Login";
 import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
@@ -36,6 +37,11 @@ function App() {
   return (
     <Router>
       <Switch>
+      <Route path="/Payment">
+          <Header />
+          <Payment />
+          <Footer />
+        </Route>
         <Route path="/login">
           <Header />
           <Login />
