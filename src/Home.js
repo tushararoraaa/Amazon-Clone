@@ -15,124 +15,103 @@ function home() {
         <div className="home_rows">
           <Product
             id="1"
-            title="Samsung M31"
+            title="Samsung M31 6 GB RAM 128 GB Storage "
             rating={5}
-            price={45999}
+            price={1}
             imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
           />
 
           <Product
             id="2"
-            title="IPhone 11"
+            title="Apple Iphone 11 64GB Red Edition"
             rating={4}
-            price={10999}
+            price={45999}
             imagee="https://m.media-amazon.com/images/I/71hh7cpWadL._AC_UY327_FMwebp_QL65_.jpg"
           />
         </div>
         <div className="home_rows">
           <Product
             id="3"
-            title="Samsung M31"
-            rating={5}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="One Plus Cover"
+            rating={4}
+            price={999}
+            imagee="https://m.media-amazon.com/images/I/21IdQaR364L.jpg"
           />
 
           <Product
             id="4"
-            title="Samsung M31"
+            title="TCL 42 inches LED TV"
             rating={4}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            price={23999}
+            imagee="https://m.media-amazon.com/images/I/51edD3-kGjS._AC_SR320,320_.jpg"
           />
 
           <Product
             id="5"
-            title="Samsung M31"
+            title="Samsung 42 inches LED TV 4K"
             rating={5}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            price={35999}
+            imagee="https://m.media-amazon.com/images/I/51F8GZvSTqS._AC_SR160,160_.jpg"
           />
         </div>
         <div className="home_rows">
           <Product
             id="6"
-            title="Samsung M31"
-            rating={2}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="Marshall Stereo Speaker"
+            rating={5}
+            price={31999}
+            imagee="https://m.media-amazon.com/images/I/51qSnKMJ6RL._AC_SR320,320_.jpg"
           />
           <Product
             id="7"
-            title="Samsung M31"
+            title="Boat Avante Sound Bar"
             rating={5}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            price={6499}
+            imagee="https://images-eu.ssl-images-amazon.com/images/I/61Qa+zvFzHL._AC_UL320_SR320,320_.jpg"
           />
           <Product
             id="8"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="Canon EOS Camera"
+            rating={4}
+            price={34990}
+            imagee="https://images-eu.ssl-images-amazon.com/images/I/914hFeTU2-L._AC_UL320_SR320,320_.jpg"
           />
           <Product
             id="9"
-            title="Samsung M31"
+            title="Tripod Stand"
             rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            price={699}
+            imagee="https://m.media-amazon.com/images/I/41LCkX-av4L._AC_SR320,320_.jpg"
           />
           <Product
             id="10"
-            title="Samsung M31"
+            title="HP Laserjet Printer Pro Series"
             rating={4}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            price={16999}
+            imagee="https://images-eu.ssl-images-amazon.com/images/I/61BBkgbDQqL._AC_UL320_SR320,320_.jpg"
           />
         </div>
         <div className="home_rows">
           <Product
             id="11"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="Acer Nitro Screen Split Monitor"
+            rating={5}
+            price={22499}
+            imagee="https://m.media-amazon.com/images/I/81Cq+ySZwvL._AC_UL480_FMwebp_QL65_.jpg"
           />
           <Product
             id="12"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="Allen Solly Men Casual Shirt"
+            rating={4}
+            price={1192}
+            imagee="https://m.media-amazon.com/images/I/31QUNwogc0L._AC_SR320,400_.jpg"
           />
           <Product
             id="13"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
-          />
-          <Product
-            id="14"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
-          />
-          <Product
-            id="15"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
-          />
-          <Product
-            id="16"
-            title="Samsung M31"
-            rating={3}
-            price={10999}
-            imagee="https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY327_FMwebp_QL65_.jpg"
+            title="Levi's Straight Fit Men Casual Wear Jeans"
+            rating={5}
+            price={1999}
+            imagee="https://m.media-amazon.com/images/I/51Ej6FQ2cZL._AC_UL480_FMwebp_QL65_.jpg"
           />
         </div>
       </div>
